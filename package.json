@@ -2,7 +2,7 @@
   "name": "vscode-python-dev-extension-pack",
   "displayName": "Python Dev Extension Pack",
   "description": "Popular VS Code extensions for Python development.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "franneck94",
   "engines": {
     "vscode": "^1.50.0"
@@ -14,7 +14,9 @@
   },
   "keywords": [
     "python",
-    "jupyter"
+    "jupyter",
+    "docstrings",
+    "unit test"
   ],
   "categories": [
     "Extension Packs"
