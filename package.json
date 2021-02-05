@@ -1,0 +1,37 @@
+{
+  "name": "vscode-python-dev-extension-pack",
+  "displayName": "Python Dev Extension Pack",
+  "description": "Popular VS Code extensions for Python development.",
+  "version": "0.1.0",
+  "publisher": "franneck94",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#222222",
+    "theme": "dark"
+  },
+  "keywords": [
+    "python",
+    "jupyter"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "url": "https://github.com/franneck94/vscode-python-dev-extension-pack"
+  },
+  "homepage": "https://github.com/franneck94/vscode-python-dev-extension-pack",
+  "bugs": {
+    "url": "https://github.com/franneck94/vscode-python-dev-extension-pack/issues"
+  },
+  "extensionPack": [
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "hbenl.vscode-test-explorer",
+    "njpwerner.autodocstring",
+    "littlefoxteam.vscode-python-test-explorer",
+    "ms-toolsai.jupyter"
+  ]
+}
