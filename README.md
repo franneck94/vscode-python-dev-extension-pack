@@ -10,6 +10,7 @@ These are some of my favorite extensions to make Python (non web) development ea
 * [Test Explorer UI](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer) - This extension provides an extensible user interface for running your tests in VS Code.
 * [Python Test Adapter](https://marketplace.visualstudio.com/items?itemName=LittleFoxTeam.vscode-python-test-adapter) - This extension allows you to run your Python Unittest or Pytest tests with the Test Explorer UI.
 * [Python Docstring Generator](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) - This extension generates docstrings for python functions.
+* [Cython Highlighting](https://marketplace.visualstudio.com/items?itemName=tcwalther.cython) - Cython syntax highlighting.
 
 ## Want to see your extension added?
 
