@@ -1,12 +1,17 @@
-# Change Log
+# Python Dev Extension Pack Change Log
 
-All notable changes to this project will be documented in this file.
+## Version 0.2.1
 
-## [Releases]
+- **Bugfix**: Fixed Python Test Adapter Name
 
-- 0.2.0
-  - Added cython extension
-- 0.1.1
-  - Fixed typos
-- 0.1.0
-  - Initial release
+## Version 0.2.0
+
+- **Feature**: Added cython extension
+
+## Version 0.1.1
+
+- **Info**: Fixed typos
+
+## Version 0.1.0
+
+- **Info**: Initial release
