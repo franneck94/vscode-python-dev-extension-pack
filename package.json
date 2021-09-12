@@ -2,7 +2,7 @@
   "name": "vscode-python-dev-extension-pack",
   "displayName": "Python Dev Extension Pack",
   "description": "Popular VS Code extensions for Python development.",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "publisher": "franneck94",
   "engines": {
     "vscode": "^1.50.0"
@@ -33,6 +33,7 @@
     "ms-python.vscode-pylance",
     "njpwerner.autodocstring",
     "ms-toolsai.jupyter",
-    "tcwalther.cython"
+    "tcwalther.cython",
+    "tamasfe.even-better-toml"
   ]
 }

@@ -1,5 +1,9 @@
 # Python Dev Extension Pack Change Log
 
+## Version 0.4.0
+
+- **Feature**: Added TOML highlighting extension
+
 ## Version 0.3.0
 
 - **Feature**: Removed test explorer due to update of VSCode and the Python extension itself

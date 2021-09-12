@@ -1,6 +1,6 @@
 # Python Extension Pack
 
-These are some of my favorite extensions to make Python (non web) development easier and fun.
+These are the most useful VSCode Python extensions.
 
 ## Extensions Included
 
@@ -9,8 +9,9 @@ These are some of my favorite extensions to make Python (non web) development ea
 * [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) - This extension provides basic notebook support for language kernels that are supported in Jupyter Notebooks today.
 * [Python Docstring Generator](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) - This extension generates docstrings for python functions.
 * [Cython Highlighting](https://marketplace.visualstudio.com/items?itemName=tcwalther.cython) - Cython syntax highlighting.
+* [TOML Highlighting](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml) - A TOML language support extension.
 
-## Want to see your extension added?
+## Want to see an extension added?
 
 Open a PR and I'd be happy to take a look.
 
