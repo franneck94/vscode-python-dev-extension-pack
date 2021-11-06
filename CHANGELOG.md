@@ -1,5 +1,9 @@
 # Python Dev Extension Pack Change Log
 
+## Version 0.5.0
+
+- **Feature**: Added Python Config Generator
+
 ## Version 0.4.0
 
 - **Feature**: Added TOML highlighting extension

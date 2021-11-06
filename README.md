@@ -10,6 +10,7 @@ These are the most useful VSCode Python extensions.
 * [Python Docstring Generator](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) - This extension generates docstrings for python functions.
 * [Cython Highlighting](https://marketplace.visualstudio.com/items?itemName=tcwalther.cython) - Cython syntax highlighting.
 * [TOML Highlighting](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml) - A TOML language support extension.
+* [Python Config](https://marketplace.visualstudio.com/items?itemName=franneck94.vscode-python-config) - Creates all needed config files for simple Python projects.
 
 ## Want to see an extension added?
 
