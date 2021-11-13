@@ -1,5 +1,9 @@
 # Python Dev Extension Pack Change Log
 
+## Version 0.5.1
+
+- **Bugfix**: Added Missing Python Config Generator
+
 ## Version 0.5.0
 
 - **Feature**: Added Python Config Generator
