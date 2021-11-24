@@ -1,4 +1,8 @@
-# Python Dev Extension Pack Change Log
+# Python Extension Pack Change Log
+
+## Version 0.6.0
+
+- **Info**: Dropped cython highlighting extension
 
 ## Version 0.5.1
 
