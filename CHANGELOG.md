@@ -1,5 +1,13 @@
 # Python Extension Pack Change Log
 
+## Version 0.7.0
+
+- **Info**: Added the following extensions:
+  - PyInit
+  - Python Type Hint
+  - CPython Extension Pack
+  - isort
+
 ## Version 0.6.0
 
 - **Info**: Dropped cython highlighting extension
