@@ -1,5 +1,9 @@
 # Python Extension Pack Change Log
 
+## Version 0.8.0
+
+- **Info**: Removed isort
+
 ## Version 0.7.0
 
 - **Info**: Added the following extensions:

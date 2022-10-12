@@ -2,7 +2,7 @@
   "name": "vscode-python-dev-extension-pack",
   "displayName": "Python Dev Extension Pack",
   "description": "Extensions for Python development.",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "publisher": "franneck94",
   "engines": {
     "vscode": "^1.72.0"
@@ -30,7 +30,6 @@
   "extensionPack": [
     "ms-python.python",
     "ms-python.vscode-pylance",
-    "ms-python.isort",
     "franneck94.vscode-python-config",
     "franneck94.vscode-cpython-extension-pack",
     "njpwerner.autodocstring",

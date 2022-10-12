@@ -8,7 +8,6 @@ These are the most useful VSCode Python extensions.
   * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Microsoft Python Extension for Language Support.
   * [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) - Microsoft Pylance Extension for Code Analysis.
   * [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) - Notebook support for language kernels that are supported in Jupyter Notebooks today.
-  * [isort](https://marketplace.visualstudio.com/items?itemName=ms-python.isort) - Import sorting using isort.
 
 * Extension by me:
   * [Python Config](https://marketplace.visualstudio.com/items?itemName=franneck94.vscode-python-config) - Creates all needed config files for simple Python projects.
