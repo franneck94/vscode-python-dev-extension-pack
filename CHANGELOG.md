@@ -1,5 +1,9 @@
 # Python Extension Pack Change Log
 
+## Version 0.9.0
+
+- **Info**: Added isort and black
+
 ## Version 0.8.0
 
 - **Info**: Removed isort

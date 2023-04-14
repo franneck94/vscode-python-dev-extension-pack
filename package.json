@@ -2,10 +2,10 @@
   "name": "vscode-python-dev-extension-pack",
   "displayName": "Python Dev Extension Pack",
   "description": "Extensions for Python development.",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "publisher": "franneck94",
   "engines": {
-    "vscode": "^1.72.0"
+    "vscode": "^1.77.0"
   },
   "icon": "icon.png",
   "galleryBanner": {
@@ -36,6 +36,8 @@
     "ms-toolsai.jupyter",
     "tamasfe.even-better-toml",
     "DiogoNolasco.pyinit",
-    "njqdev.vscode-python-typehint"
+    "njqdev.vscode-python-typehint",
+    "ms-python.black-formatter",
+    "ms-python.isort"
   ]
 }
