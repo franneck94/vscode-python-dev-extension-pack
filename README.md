@@ -10,6 +10,7 @@ These are the most useful VSCode Python extensions.
   * [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) - Notebook support for language kernels that are supported in Jupyter Notebooks today.
   * [isort](https://marketplace.visualstudio.com/items?itemName=ms-python.isort) - Provides import sorting using isort.
   * [black](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter) - Support for the black formatter.
+  * [flake8](https://marketplace.visualstudio.com/items?itemName=ms-python.flake8) - For the flake8 linter.
 
 * Extension by me:
   * [Python Config](https://marketplace.visualstudio.com/items?itemName=franneck94.vscode-python-config) - Creates all needed config files for simple Python projects.
@@ -20,6 +21,7 @@ These are the most useful VSCode Python extensions.
   * [TOML Highlighting](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml) - A TOML language support extension.
   * [PyInit](https://marketplace.visualstudio.com/items?itemName=DiogoNolasco.pyinit) - Generates __init__.py files inside your folders and subfolders.
   * [Python Type Hint](https://marketplace.visualstudio.com/items?itemName=njqdev.vscode-python-typehint) - Provides type hint auto-completion for Python.
+  * [Ruff](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff) - For the Ruff linter.
 
 ## Want to see an extension added?
 

@@ -1,5 +1,11 @@
 # Python Extension Pack Change Log
 
+## Version 1.0.0, 21. April 2023
+
+- **Info**: Added:
+  - "ms-python.flake8"
+  - "charliermarsh.ruff"
+
 ## Version 0.9.0
 
 - **Info**: Added isort and black
