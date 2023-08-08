@@ -2,10 +2,10 @@
   "name": "vscode-python-dev-extension-pack",
   "displayName": "Python Dev Extension Pack",
   "description": "Extensions for Python development.",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "publisher": "franneck94",
   "engines": {
-    "vscode": "^1.78.0"
+    "vscode": "^1.81.0"
   },
   "icon": "icon.png",
   "galleryBanner": {
@@ -33,6 +33,7 @@
     "ms-python.black-formatter",
     "ms-python.isort",
     "ms-toolsai.jupyter",
+    "ms-python.mypy-type-checker",
     "charliermarsh.ruff",
     "franneck94.vscode-python-config",
     "franneck94.vscode-cpython-extension-pack",

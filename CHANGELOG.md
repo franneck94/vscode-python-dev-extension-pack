@@ -1,5 +1,10 @@
 # Python Extension Pack Change Log
 
+## Version 2.0.0, Aug 08 2023
+
+- **Info**: Added mypy
+- **Info**: Now having all MS extensions included for the upcomming breaking change of the MS Python extension
+
 ## Version 1.1.0, May 04 2023
 
 - **Info**: Rekoved flake8
